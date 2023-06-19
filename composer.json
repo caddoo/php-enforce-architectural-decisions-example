@@ -1,0 +1,14 @@
+{
+  "name": "caddoo/php-enforce-architectural-decisions-example",
+  "description": "Example of testing your architectural decisions",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "caddoo"
+    }
+  ],
+  "require-dev": {
+    "phparkitect/phparkitect": "^0.3.25"
+  }
+}
